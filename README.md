@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm NASEEM</h1>
 <h3 align="center">Computer science student at taibahu</h3>
 
-<img src="download.gif" style="float:right; width:50%;">
+<div style="text-align: center;">
+  <img src="47389e8e-23f0-486b-ab88-46ca010cbf3d.jpg" style="margin-left: auto; margin-right: auto; width: 50%;">
+</div>
 
 - 🌱 I’m currently learning **Exploring technologies 💻✨**
 
