@@ -5,13 +5,13 @@
   <img src="47389e8e-23f0-486b-ab88-46ca010cbf3d.jpg" style="margin-left: auto; margin-right: auto; width: 50%;">
 </div>
 
-- 🌱 I’m currently learning **Exploring technologies 💻✨**
+- 🌱  **Exploring technologies 💻✨**
 
-- 💬 Ask me about **I Having a high passion for software engineering .My areas of expertise lie in Python, Java, and UX design**
+- 💬 **I Having a high passion for software engineering .My areas of expertise lie in Python, Java, and UX design**
 
-- 📫 How to reach me **email: nasem.jabry@gmail.com**
+- 📫  **email: nasem.jabry@gmail.com**
 
-- ⚡ Fun fact **My interest for technology extends beyond technical talents. always ready to stay up-to-date with the newest trends and breakthroughs in the tech world 💫💡**
+- ⚡  **My interest for technology extends beyond technical talents. always ready to stay up-to-date with the newest trends and breakthroughs in the tech world 💫💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
