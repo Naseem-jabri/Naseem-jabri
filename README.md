@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NASEEM</h1>
-<h3 align="center">Computer science student at taibahu</h3>
+<h3 align="center">Computer science Graduate</h3>
 
 <div style="text-align: center;">
   <img src="47389e8e-23f0-486b-ab88-46ca010cbf3d.jpg" style="margin-left: auto; margin-right: auto; width: 50%;">
