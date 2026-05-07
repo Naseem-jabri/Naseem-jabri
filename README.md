@@ -3,11 +3,25 @@
 - 🌱  **Exploring technologies 💻✨**
 
 - 💬 **Computer Science graduate
-specializing in Data Analytics, Al, and Flutter Application Development.
-Skilled in Python, SQL, Power BI, and cross-platform mobile development, with experience building Al-driven and NLP-based solutions. Passionate about transforming complex data into actionable insights and developing intelligent applications that enhance performance and decision-making.**
+# 👩‍💻 Naseem’s Projects Portfolio
 
-- 📫  **email: nasem.jabry@gmail.com**
+Welcome to my GitHub portfolio.  
+Here you can find my projects organized by category.
 
+
+
+## 📊 Data Analysis Projects
+
+
+
+## 🎛️ Filters & UI Projects
+
+
+## 🤖 Machine Learning Projects
+
+
+## 📌 About
+This repository contains my academic and personal projects in data analysis, AI, and UI development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
