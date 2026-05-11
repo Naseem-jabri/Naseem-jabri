@@ -10,14 +10,6 @@ Here you can find my projects organized by category.
 
 
 
-## 📊 Data Analysis Projects
-
-
-
-## 🎛️ Filters & UI Projects
-
-
-## 🤖 Machine Learning Projects
 
 
 ## 📌 About
