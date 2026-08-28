@@ -1,13 +1,18 @@
-Naseem Aljabri
-Computer Science Graduate | Backend Developer | .NET
+<div align="center">
 
-I'm a Computer Science graduate passionate about Backend Development, .NET, Data analysis, and AI
+# Naseem Aljabri
 
-I enjoy building practical projects, learning new technologies, and turning ideas into real-world solutions
+### Computer Science Graduate | Backend Developer | .NET
 
-What I'm Working On
-- Building backend applications with C# and .NET
-- Learning Web APIs, Authentication, JWT, and clean architecture
-- Working with SQL, Power BI, and Excel
-- Exploring Machine Learning and Arabic NLP
+I'm a Computer Science graduate passionate about **Backend Development, .NET, Data Analysis, and AI.**
 
+I enjoy building practical projects, learning new technologies, and turning ideas into real-world solutions.
+
+</div>
+
+## What I'm Working On
+
+* - Building backend applications with **C# and .NET**
+* - Learning **Web APIs, Authentication, JWT, and Clean Architecture**
+* - Working with **SQL, Power BI, and Excel**
+* - Exploring **Machine Learning and Arabic NLP**
