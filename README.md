@@ -15,4 +15,4 @@ I enjoy building practical projects, learning new technologies, and turning idea
 * - Building backend applications with **C# and .NET**
 * - Learning **Web APIs, Authentication, JWT, and Clean Architecture**
 * - Working with **SQL, Power BI, and Excel**
-* - Exploring **Machine Learning and Arabic NLP**
+* - Exploring **Machine Learning and NLP**
