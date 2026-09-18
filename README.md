@@ -2,7 +2,7 @@
 
 # Naseem Aljabri
 
-### Computer Science Graduate | Backend Developer | .NET
+### Computer Science Graduate | Backend Developer | .NET | AI
 
 I'm a Computer Science graduate passionate about **Backend Development, .NET, Data Analysis, and AI.**
 
